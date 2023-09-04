@@ -4,4 +4,4 @@ WORKDIR /express_test
 COPY . .
 
 RUN npm install
-CMD node 01-meadowlark.js
+CMD node app3.js
